@@ -1,0 +1,12 @@
+C:\Users\rabog\Desktop\RDI\RestaurantOrdering.Domain\bin\Debug\net6.0\RestaurantOrdering.Domain.deps.json
+C:\Users\rabog\Desktop\RDI\RestaurantOrdering.Domain\bin\Debug\net6.0\RestaurantOrdering.Domain.dll
+C:\Users\rabog\Desktop\RDI\RestaurantOrdering.Domain\bin\Debug\net6.0\ref\RestaurantOrdering.Domain.dll
+C:\Users\rabog\Desktop\RDI\RestaurantOrdering.Domain\bin\Debug\net6.0\RestaurantOrdering.Domain.pdb
+C:\Users\rabog\Desktop\RDI\RestaurantOrdering.Domain\obj\Debug\net6.0\RestaurantOrdering.Domain.csproj.AssemblyReference.cache
+C:\Users\rabog\Desktop\RDI\RestaurantOrdering.Domain\obj\Debug\net6.0\RestaurantOrdering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabog\Desktop\RDI\RestaurantOrdering.Domain\obj\Debug\net6.0\RestaurantOrdering.Domain.AssemblyInfoInputs.cache
+C:\Users\rabog\Desktop\RDI\RestaurantOrdering.Domain\obj\Debug\net6.0\RestaurantOrdering.Domain.AssemblyInfo.cs
+C:\Users\rabog\Desktop\RDI\RestaurantOrdering.Domain\obj\Debug\net6.0\RestaurantOrdering.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rabog\Desktop\RDI\RestaurantOrdering.Domain\obj\Debug\net6.0\RestaurantOrdering.Domain.dll
+C:\Users\rabog\Desktop\RDI\RestaurantOrdering.Domain\obj\Debug\net6.0\ref\RestaurantOrdering.Domain.dll
+C:\Users\rabog\Desktop\RDI\RestaurantOrdering.Domain\obj\Debug\net6.0\RestaurantOrdering.Domain.pdb

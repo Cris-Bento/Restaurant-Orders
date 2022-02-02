@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7d442d49-f9fa-4bc9-b90b-47e05f072833": {
+      "ProjectGuid": "7d442d49-f9fa-4bc9-b90b-47e05f072833",
+      "DisplayName": "RestaurantOrdering",
+      "ColorIndex": 0
+    },
+    "fff478a8-ff58-4b3e-9fd9-583ef6985aca": {
+      "ProjectGuid": "fff478a8-ff58-4b3e-9fd9-583ef6985aca",
+      "DisplayName": "RestaurantOrdering.Domain",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
